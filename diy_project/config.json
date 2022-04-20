@@ -1,0 +1,19 @@
+{
+  "Database": {
+    "Host": "localhost",
+    "Port": 5432,
+    "User": "postgres",
+    "Password": "",
+    "DBName": "project"
+  },
+  "Product": {
+    "TopProductCount": 5,
+    "MaxProductsCart": 5,
+    "MaxProductQuantitySold": 5
+  },
+  "Server": {
+    "IP": "localhost",
+    "Port": "8080"
+  }
+
+}
