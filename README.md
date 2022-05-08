@@ -5,7 +5,7 @@ Created according to the requirements mentioned in https://docs.google.com/docum
 
 Added few more services like(user) with the services mentioned in thw document.
 
-A very basic class diagram is created to explain the functionality ![](extras/product_class diagram.jpeg)
+A very basic class diagram is created to explain the functionality ![](https://github.com/anejakartik/Go-DiyProject/blob/cb224c83491346d0403ff8aa1f9c979fa0aac11a/extras/product_class%20diagram.jpeg)
 
 Instruction for setup and running the code first time:
 
